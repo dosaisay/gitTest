@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abfe782d-f434-4e86-bec9-a1c0e56c0c81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/testApp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/testApp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/youApp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/youApp.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,16 +25,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="youApp.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="youApp.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/youApp.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testApp.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testApp.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/testApp.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -59,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/meApp.txt" />
         <option value="$PROJECT_DIR$/app/testApp.txt" />
+        <option value="$PROJECT_DIR$/app/youApp.txt" />
       </list>
     </option>
   </component>
@@ -71,7 +71,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-13" />
     <option name="y" value="-13" />
     <option name="width" value="1942" />
@@ -135,7 +135,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1173000" />
+    <option name="totallyTimeSpent" value="1466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="-10" width="1566" height="848" extended-state="0" />
@@ -334,17 +334,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/youApp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/testApp.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/youApp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
